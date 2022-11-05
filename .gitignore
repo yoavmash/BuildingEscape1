@@ -17,3 +17,17 @@
 #######################
 */.vs
 BuildingEscape1/BuildingEscape1.sln
+
+################################
+# Visual studio Code Mac Files #
+################################
+*/.vscode
+BuildingEscape1/BuildingEscape1.code-workspace
+
+################################
+# Mac Files #
+################################
+.DS_Store
+*/.ignore
+BuildingEscape1/Config/.DS_Store
+BuildingEscape1/Config/HoloLens/.DS_Store
